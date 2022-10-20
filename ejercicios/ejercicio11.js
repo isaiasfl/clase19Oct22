@@ -5,7 +5,6 @@ programación declarativa
  */
 
 let arrayNum = [2,3,4,5,6,7,2,2,2];
-let numero = 2;
 let newArray = [];
 
 function ejercicio11(num,numMult){
