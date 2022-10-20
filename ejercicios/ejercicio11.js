@@ -16,7 +16,7 @@ function ejercicio11(num,numMult){
         console.log("no es un número válido");
     }else{
         for(let i=0; i<arrayNum.length; i++){
-            let mult = arrayNum[i]numMult;
+            let mult = arrayNum[i];
             console.log(mult);
         }
     }
