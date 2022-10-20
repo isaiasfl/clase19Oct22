@@ -1,15 +1,15 @@
 /* 
-@author: Mario Muñoz
-@version: 1.0.0
-@description Utilizando el mismo array anterior crear una función en forma
-imperativa que le pase como parámetro el array y un número y
-seguidamente multiplique todos los elementos del array por
-el número indicado. Si el número es 0 o nada.. entonces no
-multiplicará por nada.
-
+ * @ author: Mario Muñoz
+ * @version: 1.0.0
+ * @description Utilizando el mismo array anterior crear una función en forma
+ * imperativa que le pase como parámetro el array y un número y
+ * seguidamente multiplique todos los elementos del array por
+ * el número indicado. Si el número es 0 o nada.. entonces no
+ * multiplicará por nada.
+*
 */
 
-/*
+/** 
 * @param {Array} array 
 * @param {Number} n 
 * @returns 
