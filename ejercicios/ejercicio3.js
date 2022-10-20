@@ -21,7 +21,7 @@ const estudiantes = [
             },
     }
 ];
-/**
+/**@author jose domene quesada
  * @description //  3. Crear una función PURA que modifique el curso pero NO al objeto original.
  * @param {*} obj 
  * @returns modifica el curso de nuevo objeto creado
