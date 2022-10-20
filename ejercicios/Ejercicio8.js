@@ -28,7 +28,8 @@ document.getElementById('Ejercicio8_Run').onclick = function () {
  * Con respecto al ejercicio anterior. Crea una función que
  * cuente cuántas veces está repetido dicho número dentro de mi
  * array. [No usar funciones propias de los arrays].
- * @param {number} max
+ * @param {array} array
+ * @param {number} value
  * @return array
  */
 
