@@ -12,6 +12,7 @@
  * @returns Array
 */
 
+
 function ejercicio2(estudiantes){
 
     //Para que sea no pura, modifica la edad del objeto original.
