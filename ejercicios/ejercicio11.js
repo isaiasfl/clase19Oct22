@@ -1,7 +1,10 @@
 /**
- * 11 -  Modificar la función anterior para convertirla en forma de
+ * @Author: Sofia
+ * @Version:1
+ * @Description: 11 -  Modificar la función anterior para convertirla en forma de
 programación declarativa
-@Author: Sofía
+ * @param {number}
+ * @param {number}
  */
 
 let arrayNum = [2,3,4,5,6,7,2,2,2];
